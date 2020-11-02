@@ -1,13 +1,48 @@
 <h2>Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m jinsu4755 </h2>
-<h3>
-	<span>😊 Hello, I am a Android developer who tries💡 and grows.🌱
+
+
+### Self-introduction
+<h4>
+	<span>😊 Hello, I am a tries💡 and grows🌱 developer
 	<a href="https://hits.seeyoufarm.com">
 		<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza"/>
 	</a></span>
 </h3>
+
+- Name : Park Jinsu
+- NickName : Antilog
+- Born Year : 1999
+
+### Languages and Tools:
+[<code>
+<img alt="kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png">
+</code>](https://docs.oracle.com/en/java/)
+[<code>
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</code>](https://docs.oracle.com/en/java/)
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)
+[<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+[<code>
+	<img alt="android" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
+	</code>](https://www.android.com/)
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)
+[<code>
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+</code>](https://www.microsoft.com/en-us/windows)
+
+<hr>
 <h4>
-	<p>🌱 I’m currently learning Android</p>
-	<p>🔭 I’m currently working on Project:</p>
+	<span>🌱 I’m currently learning Android</span></br></br>
+	<span>🔭 I’m currently working on Project:</span></br></br>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=placepic&repo=placepic_android"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=team-nutee&repo=NUTEE-Android"/>
