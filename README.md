@@ -15,12 +15,10 @@
 	
 </h4>
 <hr>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=jinsu4755&show_icons=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu4755&show_icons=true&count_private=true&langs_count=3"/>
-
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=jinsu4755&show_icons=true&count_private=true"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu4755&show_icons=true&count_private=true&langs_count=3"/>
+</div>
 
 
 <!--
