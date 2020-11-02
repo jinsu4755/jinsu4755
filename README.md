@@ -1,20 +1,16 @@
 ## Hello😊👋 I’m jinsu4755 
-
-<span> <h3>😊 Hello, I am a Android developer who tries💡 and grows.🌱</h3> </span><span align=right>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) </span>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+### 😊 Hello, I am a Android developer who tries💡 and grows.🌱
 #### 🔭 I’m currently working on Project: [placepic](https://github.com/placepic/placepic_android), [NUTEE](https://github.com/team-nutee/NUTEE-Android)</br>
+#### 🌱 I’m currently learning Android
 
 
 
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
   [![jinsu4755's github stats](https://github-readme-stats.vercel.app/api?username=jinsu4755&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu4755&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-	
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu4755&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
   </div>
 
 
