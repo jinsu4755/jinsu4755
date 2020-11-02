@@ -1,16 +1,16 @@
 <h2>Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m jinsu4755 </h2>
 <h3>
-	<span>😊 Hello, I am a Android developer who tries💡 and grows.🌱</span>
+	<span>😊 Hello, I am a Android developer who tries💡 and grows.🌱
 	<a href="https://hits.seeyoufarm.com">
 		<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza"/>
-	</a>
+	</a></span>
 </h3>
 <h4>
 	<p>🌱 I’m currently learning Android</p>
 	<p>🔭 I’m currently working on Project:</p>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=placepic&repo=placepic_android"/>
-		<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=team-nutee&repo=NUTEE-Android"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=team-nutee&repo=NUTEE-Android"/>
 	</a>
 	
 </h4>
@@ -18,8 +18,8 @@
 
 
 <div align=center>
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=jinsu4755&show_icons=true&count_private=true"/>
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu4755&show_icons=true&count_private=true&langs_count=3"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=jinsu4755&show_icons=true&count_private=true"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu4755&show_icons=true&count_private=true&langs_count=3"/>
 </div>
 
 
