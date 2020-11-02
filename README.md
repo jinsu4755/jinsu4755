@@ -1,9 +1,17 @@
-### Hello 👋
-  <div align=right>
+### 🌱 I’m currently learning Android
+  <div align=left>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+
+  [![jinsu4755's github stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 	
   </div>
+
+
 <!--
 **jinsu4755/jinsu4755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
