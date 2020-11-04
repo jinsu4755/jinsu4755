@@ -43,8 +43,10 @@
 <h4>
 	<span>🌱 I’m currently learning Android</span></br></br>
 	<span>🔭 I’m currently working on Project:</span></br></br>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
+	<a href="https://github.com/placepic/placepic_android">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=placepic&repo=placepic_android"/>
+	</a>
+	<a href="https://github.com/team-nutee/NUTEE-Android">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=team-nutee&repo=NUTEE-Android"/>
 	</a>
 	
