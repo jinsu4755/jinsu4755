@@ -49,6 +49,10 @@
 	<a href="https://github.com/team-nutee/NUTEE-Android">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=team-nutee&repo=NUTEE-Android"/>
 	</a>
+	<a href="https://github.com/nneaning/meaning_Android">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nneaning&repo=meaning_Android"/>
+	</a>
+	
 	
 </h4>
 <hr>
