@@ -44,21 +44,21 @@
 	<span>🌱 I’m currently learning Android</span></br></br>
 	<span>🔭 I’m currently working on Project:</span></br></br>
 	<a href="https://github.com/placepic/placepic_android">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=placepic&repo=placepic_android"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=placepic&repo=placepic_android&theme=dracula"/>
 	</a>
 	<a href="https://github.com/team-nutee/NUTEE-Android">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=team-nutee&repo=NUTEE-Android"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=team-nutee&repo=NUTEE-Android&theme=dracula"/>
 	</a>
 	<a href="https://github.com/nneaning/meaning_Android">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nneaning&repo=meaning_Android"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nneaning&repo=meaning_Android&theme=dracula"/>
 	</a>
 	
 	
 </h4>
 <hr>
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=jinsu4755&show_icons=true&count_private=true"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu4755&show_icons=true&count_private=true&langs_count=3"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=jinsu4755&show_icons=true&count_private=true&theme=dracula"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsu4755&show_icons=true&count_private=true&langs_count=3&theme=dracula"/>
 </div>
 
 
