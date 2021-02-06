@@ -13,32 +13,6 @@
 - NickName : Antilog
 - Born Year : 1999
 
-### Languages and Tools:
-[<code>
-<img alt="kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-	<img alt="android" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
-	</code>](https://www.android.com/)
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-
 <hr>
 <h4>
 	<span>🌱 I’m currently learning Android</span></br></br>
