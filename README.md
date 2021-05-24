@@ -32,10 +32,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=jinsu4755&show_icons=true&count_private=true&theme=dracula"/>
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsu4755)](https://solved.ac/jinsu4755)
-
-
 <!--
 **jinsu4755/jinsu4755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
