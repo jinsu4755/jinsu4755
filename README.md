@@ -14,9 +14,9 @@
 <hr>
 <h4>
 	<span>🌱 I’m currently learning Android</span></br></br>
-	More about me
-	- <a href="https://azure-sawfish-822.notion.site/079f0e58771c4f2c8f672496a913dfe5">Notion</a>
-	- <a href="https://www.linkedin.com/in/%EC%A7%84%EC%88%98-%EB%B0%95-1204b7206/">LinkedIn</a>
+	More about me</br>
+	- <a href="https://azure-sawfish-822.notion.site/079f0e58771c4f2c8f672496a913dfe5">Notion</a></br>
+	- <a href="https://www.linkedin.com/in/%EC%A7%84%EC%88%98-%EB%B0%95-1204b7206/">LinkedIn</a></br>
 </h4>
 <hr>
 <div>
